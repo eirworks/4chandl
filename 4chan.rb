@@ -7,7 +7,7 @@ require "open-uri"
 
 # CONFIG
 
-IMAGES_DIR = "images"
+IMAGES_DIR = File.join Dir.home,"images"
 DEBUG = false
 archive = false
 
