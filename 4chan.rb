@@ -7,7 +7,7 @@ require "open-uri"
 
 # CONFIG
 
-IMAGES_DIR = File.join Dir.home,"images"
+IMAGES_DIR = File.join Dir.home,".4chanimages"
 DEBUG = false
 archive = false
 
